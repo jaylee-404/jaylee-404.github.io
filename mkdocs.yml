@@ -1,18 +1,25 @@
 site_name: Jay Lee
 site_description: Senior Full-stack Engineer | Ruby on Rails & React
-site_url: https://yourname.github.io
+site_url: https://jaylee-404.github.io
+# repo_url: https://github.com/yourname/your-github-page
+# repo_name: GitHub
+edit_uri: ''
 
 theme:
   name: material
   palette:
-    - scheme: default
+    - scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
-        name: Dark mode
-    - scheme: slate
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny
-        name: Light mode
+        name: Switch to dark mode
   features:
     - navigation.instant
     - navigation.tabs
@@ -20,16 +27,88 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
+    - content.tabs.link
+    - content.images.lightbox
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
 
 nav:
   - Home: index.md
-  - Projects:
-      - Partner Vision: projects/partner-vision.md
+  - Case Studies:
+      - Distribution E‑commerce Platform: projects/distribution-e‑commerce.md
+      - Online Hospital Platform: projects/online_hospital.md
+      - E-commerce platform: projects/e-commerce.md
+      - Hyperlocal Services Platform: projects/hyperlocal.md
+      - Procurement & Bidding Platform: projects/procurement_bidding.md
+      - Court Case Management System: projects/court_case_management_system.md
+
+  # - Skills: skills.md
   - Resume: resume.md
+  - Blog:
+      - Overview: blog/index.md
   - Contact: contact.md
 
 markdown_extensions:
   - admonition
   - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.extra
   - toc:
       permalink: true
+  - footnotes
+  # --- 核心修复部分开始 ---
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # --- 核心修复部分结束 ---
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+
+# --- 必须引入 Mermaid JS 库 ---
+extra_javascript:
+  - https://unpkg.com/mermaid@10.6.1/dist/mermaid.min.js
+
+plugins:
+  - search
+  - mermaid2
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      zoomable: true        # 关键项：确保为 true
+      draggable: true       # 开启拖拽，方便放大后移动图片
+      # auto_caption: true
+      width: 500%    # 弹窗占据屏幕的比例
+      height: auto
+      effect: zoom
+      slide_config:
+        auto_start: false
+        indicator: true
+      # 关键：让插件去寻找 mermaid 图表生成的 svg 元素
+      selector: 'img, .mermaid svg'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourname
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/yourname
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/yourname

@@ -10,13 +10,14 @@ Seasoned Ruby on Rails engineer with **10+ years of experience** building **scal
 
 Specialized in **Ruby on Rails backend architecture** with strong frontend experience. Proven ability to design high-concurrency systems, refactor complex legacy platforms, and deliver reliable, maintainable solutions across multiple complex domains.
 
- 📧 [lilee501@gmail.com](mailto:lilee501@gmail.com) | 📄 [Download Resume](resume.pdf) | 💻 [GitHub](https://jaylee-404.github.io){:target="_blank"} | 🔗 [LinkedIn](https://www.linkedin.com/in/lee-jie-560080104){:target="_blank"}
+ 📄 [Download Resume](resume.pdf) | 💻[GitHub](https://jaylee-404.github.io){:target="_blank"} | 🔗 [LinkedIn](https://www.linkedin.com/in/lee-jie-560080104){:target="_blank"}
 ---
 
 ## Selected Experience Highlights
 
 - Designed and stabilized **high-concurrency systems handling 4,000+ QPS** during flash sales and burst traffic scenarios  
 - Led **end-to-end system architecture** for complex platforms spanning **e-commerce, healthcare, government procurement, and judicial systems**
+<!-- - Strong experience in **async, event-driven architectures** using Redis & Sidekiq to protect core services under load -->
 - Successfully refactored and modernized **legacy monolithic Rails systems**, significantly improving stability and maintainability
 - Delivered **regulatory-compliant systems** used in real-world **hospitals, courts, and government departments**
 - Frequently acted as **technical owner**, independently handling requirement analysis, system design, stakeholder communication, and delivery
@@ -44,8 +45,13 @@ Rather than working for a single employer, I collaborate with several clients in
     - Fixed bugs, improved stability, and implemented new business-driven features  
     - Worked closely with business and operations teams to align technical changes with real customer and revenue needs  
 
-**Tech Stack**  
-Ruby on Rails, Java, React, PostgreSQL, Redis
+<!-- **Impact & Value**
+
+- Kept live production systems running reliably while new features were shipped  
+- Extended the life and value of existing systems without risky rewrites  
+- Acted as a technical partner to product and operations, not just a ticket executor  
+- Demonstrated strong ownership, communication, and remote collaboration across multiple clients   -->
+
 ---
 
 ### Online Hospital Platform (Internet Hospital)  
@@ -63,7 +69,7 @@ Cloud-based telemedicine platform supporting **online registration, appointments
 - Delivered a **production-grade, compliant system** actively used in real hospital environments
 
 **Tech Stack**  
-Ruby on Rails, React, PostgreSQL, Mysql, Redis
+Ruby on Rails, React, PostgreSQL, Redis, Sidekiq
 
 ---
 
@@ -76,6 +82,7 @@ Multi-module local life platform combining **e-commerce, resource monetization, 
 **Key Contributions & Impact**
 
 - Designed modular backend supporting products, resources, and community systems
+<!-- - Built async processing pipelines for orders, settlements, and notifications -->
 - Led full lifecycle development: requirements, architecture, implementation, deployment
 - Enabled rapid business iteration through flexible, decoupled system design
 - Delivered a stable platform supporting continuous feature experimentation
@@ -94,6 +101,7 @@ Large-scale public-sector platform supporting **government procurement and publi
 **Key Contributions & Impact**
 
 - Refactored a tightly coupled legacy bidding system into a maintainable Rails architecture
+<!-- - Isolated third-party government & vendor integrations into async background jobs -->
 - Optimized database queries and indexing for large-scale datasets
 - Acted as core technical contact for government stakeholders and vendors
 - Successfully delivered a production system used in real procurement scenarios
@@ -132,6 +140,7 @@ High-concurrency social commerce platform focused on **flash sales, group buying
 **Key Contributions & Impact**
 
 - Led refactoring of flash sale and commission settlement systems
+<!-- - Designed Redis-based **atomic inventory control**, preventing overselling under extreme concurrency -->
 - Introduced async pipelines using Sidekiq to offload heavy order, payment, and commission processing
 - Enabled stable handling of **4,000+ QPS** during synchronized flash sale traffic
 - Significantly reduced system crashes and infrastructure costs through performance optimization
