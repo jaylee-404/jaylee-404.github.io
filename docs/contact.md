@@ -12,21 +12,21 @@ I’m always open to discussing new projects, remote work opportunities, or tech
       📧 Email
     </button>
   </a>
-  <a href="https://github.com/yourname" target="_blank" style="text-decoration:none;">
+  <a href="https://jaylee-404.github.io" target="_blank" style="text-decoration:none;">
     <button style="padding:0.5rem 1rem; background-color:#24292e; color:white; border:none; border-radius:6px; cursor:pointer;">
       🐙 GitHub
     </button>
   </a>
-  <a href="https://linkedin.com/in/yourname" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/lee-jie-560080104" target="_blank" style="text-decoration:none;">
     <button style="padding:0.5rem 1rem; background-color:#0077b5; color:white; border:none; border-radius:6px; cursor:pointer;">
       💼 LinkedIn
     </button>
   </a>
-  <a href="https://twitter.com/yourname" target="_blank" style="text-decoration:none;">
+  <!-- <a href="https://twitter.com/yourname" target="_blank" style="text-decoration:none;">
     <button style="padding:0.5rem 1rem; background-color:#1da1f2; color:white; border:none; border-radius:6px; cursor:pointer;">
       🐦 Twitter
     </button>
-  </a>
+  </a> -->
 </div>
 
 ---

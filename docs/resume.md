@@ -10,7 +10,8 @@ Seasoned Ruby on Rails engineer with **10+ years of experience** building **scal
 
 Specialized in **Ruby on Rails backend architecture** with strong frontend experience. Proven ability to design high-concurrency systems, refactor complex legacy platforms, and deliver reliable, maintainable solutions across multiple complex domains.
 
- 📧 [lilee501@gmail.com](mailto:lilee501@gmail.com) | 📄 [Download Resume](resume.pdf) | 💻 [GitHub](https://jaylee-404.github.io){:target="_blank"} | 🔗 [LinkedIn](https://www.linkedin.com/in/lee-jie-560080104){:target="_blank"}
+ 📧 [lilee501@gmail.com](mailto:lilee501@gmail.com) | 📄 [Download Resume](assets/jaylee-resume.pdf) | 💻 [GitHub](https://jaylee-404.github.io){:target="_blank"} | 🔗 [LinkedIn](https://www.linkedin.com/in/lee-jie-560080104){:target="_blank"}
+
 ---
 
 ## Selected Experience Highlights
@@ -27,9 +28,9 @@ Specialized in **Ruby on Rails backend architecture** with strong frontend exper
 ## Featured Case Studies
 
 ###  Independent Software Consultant (Remote)  
-**Freelance / Contract-based** · Nov 2023 – Present  
+**Freelance** · Nov 2022 – Dec 2025  
 
-Provide long-term maintenance, optimization, and feature development for business-critical production systems across multiple organizations.
+Provide maintenance, optimization, and feature development for business-critical production systems across multiple organizations.
 
 Rather than working for a single employer, I collaborate with several clients in parallel, helping teams keep their platforms stable, maintainable, and evolving as their business grows.
 
@@ -49,8 +50,8 @@ Ruby on Rails, Java, React, PostgreSQL, Redis
 ---
 
 ### Online Hospital Platform (Internet Hospital)  
-**Senior Ruby Developer**  
-Beikang Yizhong Medical Technology (China) | Dec 2021 – Oct 2023  
+**Senior Ruby on Rails engineer**  
+Beikang Yizhong Medical Technology (China) | Dec 2021 – Nov 2022  
 
 Cloud-based telemedicine platform supporting **online registration, appointments, payments, video consultations, and e-prescriptions**, integrated with hospital HIS systems.
 
@@ -68,7 +69,7 @@ Ruby on Rails, React, PostgreSQL, Mysql, Redis
 ---
 
 ### Hyperlocal Services Platform  
-**Senior Ruby Developer**  
+**Senior Ruby on Rails engineer**  
 Partner Vision InfoTech (China) | Oct 2019 – Dec 2021  
 
 Multi-module local life platform combining **e-commerce, resource monetization, and community social features**.
@@ -86,7 +87,7 @@ Ruby on Rails, React, PostgreSQL, Redis, Sidekiq, Docker, GitLab CI/CD
 ---
 
 ### Government Procurement & Bidding Platform  
-**Senior Software Engineer**  
+**Senior Ruby on Rails engineer**  
 Beijing Sunshine Procurement | Oct 2018 – Oct 2019  
 
 Large-scale public-sector platform supporting **government procurement and public tendering workflows**.
@@ -124,7 +125,7 @@ Ruby on Rails, MySQL, MongoDB, Redis, Sidekiq, Apache Solr
 ---
 
 ### Distribution E-commerce Platform  
-**Senior Ruby Developer**  
+**Senior Ruby on Rails engineer**  
 Guangzhou Lige InfoTech (China) | Sep 2015 – Oct 2017  
 
 High-concurrency social commerce platform focused on **flash sales, group buying, and three-level referral distribution**.
@@ -142,7 +143,7 @@ Ruby on Rails, React, MySQL, Redis, Sidekiq, Nginx
 ---
 
 ### ShopperPlus.ca (E-commerce Platform)  
-**Senior Ruby Developer**  
+**Ruby on Rails Engineer**  
 ShopperPlus Canada | Jan 2013 – Sep 2015  
 
 Full-featured e-commerce platform serving consumer electronics and daily goods.

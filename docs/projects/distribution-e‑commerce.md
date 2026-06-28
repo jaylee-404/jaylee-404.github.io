@@ -1,8 +1,8 @@
 # Distribution E-commerce Platform
 *High-Concurrency Flash Sale & E-commerce distribution system*
 
-**Role:** Senior Ruby Developer  
-**Company:** Guangzhou Lige InfoTech (China)  
+**Role:** Senior Ruby on Rails Engineer   
+**Company:** Guangzhou Lige InfoTech
 **Period:** Sep 2015 – Oct 2017 
 
 ---

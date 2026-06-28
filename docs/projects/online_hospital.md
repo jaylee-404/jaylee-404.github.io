@@ -1,8 +1,8 @@
 # 🏥 Online Hospital Platform (Internet Hospital)
 
-**Role:** Senior Ruby Developer  
+**Role:** Senior Ruby on Rails Engineer   
 **Company:** Beikang Yizhong Medical Technology, Guangdong, China  
-**Period:** Dec 2021 – Oct 2023  
+**Period:** Dec 2021 – Nov 2022  
 
 ---
 

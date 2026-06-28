@@ -1,6 +1,6 @@
 # Government Procurement & Bidding Platform
 
-**Role:** Senior Software Engineer  
+**Role:** Senior Ruby on Rails Engineer   
 **Company:** China Beijing Sunshine Procurement  
 **Period:** Oct 2018 – Oct 2019  
 **Domain:** Government Procurement / Public Tendering  

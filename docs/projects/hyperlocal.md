@@ -1,6 +1,6 @@
 # 🌐 Hyperlocal Services Platform
 
-**Role:** Senior Ruby Developer  
+**Role:** Senior Ruby on Rails Engineer   
 **Company:** Partner Vision InfoTech, Guangzhou, China  
 **Period:** Oct 2019 – Dec 2021  
 

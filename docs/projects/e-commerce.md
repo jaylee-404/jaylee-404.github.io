@@ -1,6 +1,6 @@
 # 🛒 ShopperPlus.ca (E-commerce Platform)
 
-**Role:** Senior Ruby Developer  
+**Role:** Ruby on Rails Engineer   
 **Company:** ShopperPlus Canada  
 **Period:** Jan 2013 – Sep 2015  
 **Website:** [https://www.shopperplus.ca/](https://www.shopperplus.ca/)  

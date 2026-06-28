@@ -10,7 +10,7 @@ Seasoned Ruby on Rails engineer with 10+ years of experience building scalable, 
 
 Specialized in Ruby on Rails backend architecture with strong frontend experience. Proven ability to design high-concurrency systems, refactor complex legacy platforms, and deliver reliable, maintainable solutions across multiple complex domains.
 
-📧 [lilee501@gmail.com](mailto:lilee501@gmail.com) | 📄 [Download Resume](resume.pdf) | 💻 [GitHub](https://jaylee-404.github.io){:target="_blank"} | 🔗 [LinkedIn](https://www.linkedin.com/in/lee-jie-560080104){:target="_blank"}
+📧 [lilee501@gmail.com](mailto:lilee501@gmail.com) | 📄 [Download Resume](assets/jaylee-resume.pdf) | 💻 [GitHub](https://jaylee-404.github.io){:target="_blank"} | 🔗 [LinkedIn](https://www.linkedin.com/in/lee-jie-560080104){:target="_blank"}
 
 
 ---
